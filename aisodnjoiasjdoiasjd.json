@@ -19,6 +19,16 @@
       "seller": "Stritixx",
       "payment": "Blik",
       "price": "30 PLN"
+    },
+    {
+      "key": "S92S-AS2I-SLMS-A92S-DAS2-ASMM",
+      "bought": "20.02.2024",
+      "validity": "Lifetime",
+      "end": "No Data",
+      "buyer": "BTZ",
+      "seller": "Stritixx",
+      "payment": "No Data",
+      "price": "30 PLN"
     }
   ]
 }
