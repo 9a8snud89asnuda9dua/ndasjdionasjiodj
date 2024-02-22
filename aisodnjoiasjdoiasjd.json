@@ -29,6 +29,16 @@
       "seller": "Stritixx",
       "payment": "No Data",
       "price": "30 PLN"
+    },
+    {
+      "key": "SS2S-AS2I-19MS-A92S-D122-ASMM",
+      "bought": "22.02.2024",
+      "validity": "Lifetime",
+      "end": "No Data",
+      "buyer": "Haczyn",
+      "seller": "Stritixx",
+      "payment": "No Data",
+      "price": "30 PLN"
     }
   ]
 }
